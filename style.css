@@ -1,0 +1,30 @@
+html {
+    background-color: antiquewhite;
+}
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+    margin: 30px;
+    padding: 20px;
+    color: #000000;
+    border-top: 10px solid #000000;
+    background: antiquewhite;
+}
+
+.sticky {
+    background: #00ff21;
+    position: sticky;
+    font-size: 5em;
+    top: 0;
+}
+
+h1 {
+    font-size: 3em;
+}
+.img {
+    background: #ff0000;
+    height: 200px;
+    width: 60px;
+    float: right;
+    margin-left: 19px;
+}
